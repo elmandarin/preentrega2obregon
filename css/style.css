@@ -89,6 +89,12 @@
   margin-right: 10px;
   margin-left: 10px;
 }
+.buzo {
+  display: flex;
+  justify-content: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
 .ves {
   display: flex;
   justify-content: center;
