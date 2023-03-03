@@ -89,12 +89,6 @@
   margin-right: 10px;
   margin-left: 10px;
 }
-.buzo {
-  display: flex;
-  justify-content: center;
-  margin-right: 10px;
-  margin-left: 10px;
-}
 .ves {
   display: flex;
   justify-content: center;
@@ -154,12 +148,12 @@ footer {
 .button {
   background-color: #724803;
 }
-.titulo {
+.animate__animated {
   font-family: Georgia, "Times New Roman", Times, serif;
   list-style: none;
   text-align: center;
   font-size: 500%;
-  margin-top: 5%;
+  margin-top: 2%;
 }
 /* main */
 .moscu {
